@@ -2,7 +2,7 @@
 name = "mortgage-calculator"
 version = "0.1.0"
 description = "Simple mortgage calculator"
-authors = ["ericsalesdeandrade <sdaeric19@gmail.com>"]
+authors = ["<AUTHOR>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
